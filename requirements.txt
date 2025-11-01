@@ -1,0 +1,14 @@
+langchain==1.0.3
+langchain-core==1.0.2
+langchain-google-genai==3.0.0
+langgraph==1.0.2
+langsmith==0.4.38
+
+python-dotenv
+requests
+pydantic>=2.0
+tiktoken
+transformers
+nltk
+jinja2
+beautifulsoup4

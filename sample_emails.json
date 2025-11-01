@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "from": "sophia.gonzalez@globalimports.mx",
+    "subject": "Invoice for Order #12345",
+    "body": "Hi team, could you please send us the official invoice for our recent order #12345? We need it for our records. Thanks!",
+    "timestamp": "2025-08-01T14:30:00"
+  },
+  {
+    "id": "2",
+    "from": "raj.malhotra@malhotragoods.in",
+    "subject": "Missing Items in Shipment PO53804",
+    "body": "Hello, I noticed several missing items in the last shipment PO53804. Kindly investigate and resend the missing stock.",
+    "timestamp": "2025-07-19T23:52:00"
+  },
+  {
+    "id": "3",
+    "from": "evelyn.harper@urbanthreads.com",
+    "subject": "Shipment 97694 Delivered to Wrong Address",
+    "body": "Hello, shipment 97694 appears to have been delivered to the wrong address. Please investigate and get back to us soon.",
+    "timestamp": "2025-03-23T03:49:00"
+  },
+  {
+    "id": "4",
+    "from": "raj.malhotra@malhotragoods.in",
+    "subject": "Shipment 71686 Delivered Incorrectly",
+    "body": "Hello, shipment 71686 shows delivery to the wrong address. Please investigate and get back to us soon.",
+    "timestamp": "2025-05-31T07:48:00"
+  },
+  {
+    "id": "5",
+    "from": "alex.johnson@northtech.us",
+    "subject": "Shipment 67843 Marked Delivered But Not Received",
+    "body": "Hi, I'm disappointed that shipment 67843 is marked as delivered but I haven't received it yet.",
+    "timestamp": "2025-06-04T08:56:00"
+  },
+  {
+    "id": "6",
+    "from": "evelyn.harper@urbanthreads.com",
+    "subject": "Appreciation for Order 64665 Resolution",
+    "body": "Dear ShipCube, thank you for resolving the issue with order 64665 promptly. Excellent service!",
+    "timestamp": "2025-06-08T21:23:00"
+  },
+  {
+    "id": "7",
+    "from": "carla.mendes@brazconnect.com",
+    "subject": "Request for Delivery Estimate PO19134",
+    "body": "Dear team, could you please provide an update or estimated delivery date for PO19134?",
+    "timestamp": "2025-06-19T10:45:00"
+  },
+  {
+    "id": "8",
+    "from": "sofia.kim@kimsimports.kr",
+    "subject": "Missing Items in Shipment PO21323",
+    "body": "Hello, I noticed several missing items in the last shipment PO21323. Kindly investigate and resend the missing stock.",
+    "timestamp": "2025-06-19T04:20:00"
+  },
+  {
+    "id": "9",
+    "from": "alex.johnson@northtech.us",
+    "subject": "Shipment 19637 Marked Delivered But Not Received",
+    "body": "Hi, I'm disappointed that shipment 19637 is marked as delivered but I haven't received it yet.",
+    "timestamp": "2025-06-19T08:06:00"
+  },
+  {
+    "id": "10",
+    "from": "alex.johnson@northtech.us",
+    "subject": "Shipment 72370 Marked Delivered But Not Received",
+    "body": "Hi, I'm disappointed that shipment 72370 is marked as delivered but I haven't received it yet.",
+    "timestamp": "2025-01-10T12:01:00"
+  },
+  {
+    "id": "11",
+    "from": "mark.peters@eurotrade.de",
+    "subject": "Missing Items in Shipment PO36712",
+    "body": "Hello, I noticed several missing items in the last shipment PO36712. Kindly investigate and resend the missing stock.",
+    "timestamp": "2025-04-30T00:32:00"
+  },
+  {
+    "id": "12",
+    "from": "evelyn.harper@urbanthreads.com",
+    "subject": "Appreciation for Order 24311 Resolution",
+    "body": "Dear ShipCube, thank you for resolving the issue with order 24311 promptly. Excellent service!",
+    "timestamp": "2025-07-27T22:13:00"
+  },
+  {
+    "id": "13",
+    "from": "james.liu@fasttrackglobal.cn",
+    "subject": "Damaged Goods in Order 95479",
+    "body": "Hello Support, we received damaged goods in order 95479. Please arrange a replacement or refund immediately.",
+    "timestamp": "2025-06-21T16:28:00"
+  },
+  {
+    "id": "14",
+    "from": "raj.malhotra@malhotragoods.in",
+    "subject": "Shipment 35452 Marked Delivered But Not Received",
+    "body": "Hi, I'm disappointed that shipment 35452 is marked as delivered but I haven't received it yet.",
+    "timestamp": "2025-06-16T21:46:00"
+  }
+  
+]
