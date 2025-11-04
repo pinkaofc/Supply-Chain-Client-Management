@@ -76,8 +76,8 @@ This repository implements an email processing pipeline that leverages state-of-
 The application requires several configuration settings (such as API keys and email server credentials). Create a `.env` file in the project root with the following variables:
 
 ```dotenv
-# Deepseek API
-DEEPSEEK_API_KEY=your_deepseek_api_key
+# Gemini API
+GEMINI API_API_KEY=your_gemini_api_key
 
 # SMTP Settings
 EMAIL_SERVER=smtp.yourserver.com
@@ -188,3 +188,4 @@ Please follow our coding conventions and include relevant tests when applicable.
 ---
 
 This documentation should serve as a comprehensive guide to setting up, using, and contributing to the AI-Driven Email Assistant. Feel free to modify or expand sections as your project evolves.
+
